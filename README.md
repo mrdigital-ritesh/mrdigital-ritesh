@@ -34,3 +34,10 @@
 <p align="center">
   <i>Designing resilient, intelligent Salesforce systems for the next generation of enterprise platforms.</i>
 </p>
+<p align="center">
+  <b>📫 Connect</b><br/>
+        💼 <a href="https://www.linkedin.com/in/ritesh-bagdi-50b3b1262/" target="_blank">LinkedIn</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  📧 <a href="mailto:bagdi.ritesh15@gmail.com">bagdi.ritesh15@gmail.com</a>
+</p>
+
