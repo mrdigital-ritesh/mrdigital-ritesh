@@ -1,17 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=JetBrains+Mono
-&weight=800
-&size=28
-&pause=900
-&color=00F6FF
-&center=true
-&vCenter=true
-&width=800
-&lines=RITESH+BAGDI;
-Full-Stack+Salesforce+Engineer;
-Cloud+%7C+CI%2FCD+%7C+AI+Automation" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&pause=1000&color=00000F&center=true&vCenter=true&width=750&lines=RITESH+BAGDI;Full-Stack+Salesforce+Engineer;Cloud+%7C+CI%2FCD+%7C+AI+Automation" /> </p>
 
 <p align="center">
   <b>Full-Stack Salesforce Engineer</b> crafting <b>AI-enabled</b>, <b>cloud-native</b>, and <b>automation-first</b> CRM platforms.
